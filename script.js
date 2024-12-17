@@ -1,5 +1,5 @@
 // Yıl dönümü tarihi (Bu tarihi yıl dönümünüze göre ayarlayın)
-const anniversaryDate = new Date("2024-12-18T00:00:00").getTime();
+const anniversaryDate = new Date("2024-12-19T00:00:00").getTime();
 
 // Sayacı güncelleme işlevi
 function updateCountdown() {
